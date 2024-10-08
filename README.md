@@ -21,9 +21,9 @@
 ### Installation and Setup
 1. Clone the repository: `git clone https://github.com/Adityar9764/HeartHealthMonitoringSystem.git`
 2. Install the required libraries: `pip install -r requirements.txt`
-3. Run the application: `python app.py`
+3. Run the application: `python main.py`
 
 ### Usage
 - Enter patient data into the provided fields.
 - Click on "Predict" to view heart health status.
-- View recommendations based on the prediction.
+- View report and recommendations based on the prediction.
